@@ -1,13 +1,5 @@
 <div id="top"></div>
 
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
 <!-- HEADING -->
 <h1 align="center"> Our Repository !! </h1>
 
@@ -27,15 +19,3 @@
   <li> Yusuf Haroon </li>
   <li> Rayyan Lakhani </li>
 </ul>
-
-
-<br>
-
-<p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><strong>Explore the MDN docs »</strong></a>
-    <br />
-    
-  </p>
-
