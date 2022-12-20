@@ -7,7 +7,7 @@
 <h2> About our Project </h2>
 <ul>
   <li> Simulation of 8088/86 microprocessor </li>
-  <li> The simulation is in C++ Programming language on Microsoft VS Terminal </li>
+  <li> The simulation is in C++ Programming language on Windows Form in Visual Studio </li>
   <li> Implementation of instructions along with displaying the machine code and instruction cycle </li>
 </ul>
 
